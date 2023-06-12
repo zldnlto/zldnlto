@@ -1,23 +1,43 @@
 <div align="center"> 
 
-### Hi there 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0761F7&center=true&vCenter=true&width=435&lines=welcome+to+dev+seolha's+note!+%F0%9F%98%86)](https://git.io/typing-svg)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-cd5b58?style=flat-square&logo=Gmail&logoColor=white&link=mailto:langchomi0@gmail.com)](mailto:langchomi0@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-tistory-ed8544?style=flat-square&logo=Tistory&logoColor=white)](https://winterkiwee.tistory.com/)
+## 👩🏻‍💻 KimSeolha 
+Front-end developer   
+
+📚 Blog : https://winterkiwee.tistory.com/
 
   <p> * * *</p>
 </div>
 
 <div align="center"> 
-  <h4> 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 </h4> 
+  <h2> Skills </h2> 
       <p>
-    <code><img height="22" src="https://user-images.githubusercontent.com/104605709/189590833-9b1c9bfa-9c86-4e91-a920-2f771ee42d87.png"></code>
-    <code><img height="22" src="https://user-images.githubusercontent.com/104605709/189591092-346e326b-2fe2-405c-b00b-e76fcf71c2ae.png"></code>
-    <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+        </br>
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+        <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=scss&logoColor=white">
+        <img src="https://img.shields.io/badge/styledcomponent-DB7093?style=for-the-badge&logo=styled-component&logoColor=white">
+         <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/reactQuery-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <h2> Tools </h2> 
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        
   </p>
 
-  <img alt="zldnlto github stats" width="30.5%" src="https://github-readme-stats.vercel.app/api?username=zldnlto" />
-  <img alt="zldnlto top langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zldnlto&layout=compact" />
+  <img alt="zldnlto github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=zldnlto" />
+  <img alt="zldnlto top langs" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zldnlto&layout=compact" />
 <div>
 <!--
 **zldnlto/zldnlto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
