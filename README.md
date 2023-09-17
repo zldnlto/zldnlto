@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 KimSeolha 
 Front-end developer   
 
-📚 Blog : https://winterkiwee.tistory.com/
+📚 Blog : https://morethan-log-ebon.vercel.app/
 
   <p> * * *</p>
 </div>
