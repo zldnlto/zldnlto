@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 KimSeolha 
 Front-end developer   
 
-📚 Blog | https://morethan-log-ebon.vercel.app/
+📚 Blog | [https://morethan-log-ebon.vercel.app/](https://velog.io/@zldnlto/posts)
 </div>
 
 <div> 
